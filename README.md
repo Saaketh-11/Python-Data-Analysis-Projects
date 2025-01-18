@@ -1,6 +1,6 @@
 # Python-Data-Analysis-Projects
 Here you can find my Data Analysis Projects using Python 😊.
-Telecom Churn Analysis
+#Telecom Churn Analysis
 This repository contains a Jupyter Notebook for analyzing customer churn data from a telecom company. The analysis involves exploring the dataset, visualizing trends, and deriving insights to understand customer behavior and churn patterns.
 
 Project Overview
